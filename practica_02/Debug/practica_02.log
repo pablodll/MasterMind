@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\pablo\documents\c++ projects\practicas\practica_02\practica_02\source.cpp(33): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\pablo\documents\c++ projects\practicas\practica_02\practica_02\source.cpp(134): warning C4101: 'colocado': variable local sin referencia
+  practica_02.vcxproj -> C:\Users\Pablo\Documents\C++ Projects\PRACTICAS\practica_02\Debug\practica_02.exe
